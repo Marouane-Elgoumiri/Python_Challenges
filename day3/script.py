@@ -24,7 +24,7 @@ if(y=="yes"):
     word= input("Enter the word: ")
     if (word in text):
          print(f"Yep it does exist")
-    else: prin("Sorry nope")
+    else: print("Sorry nope")
 elif(y=="no"):
      print("bye")
      exit(0)
