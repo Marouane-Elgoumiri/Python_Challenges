@@ -1,4 +1,4 @@
-# 16 Days python challenges course
+# 16 Days Python 🐍 challenges course
 <div align="center">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -6,7 +6,7 @@
 
 </div>
 
-<p>Current streak: 3/16 </p>
+<p>Current streak: 3/16 ⚡ </p>
 
 ### Day 1: - PROGRAM A NAME CREATOR WITH PYTHON ✅
 
