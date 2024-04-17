@@ -6,3 +6,10 @@
 
 </div>
 
+<p>Current streak: 3/16 </p>
+
+### Day 1: - PROGRAM A NAME CREATOR WITH PYTHON ✅
+
+### Day 2: - PROGRAM A COMMISSION CALCULATOR WITH PYTHON ✅
+
+### Day 3: - PROGRAM A TEXT ANALYZER WITH PYTHON ✅
