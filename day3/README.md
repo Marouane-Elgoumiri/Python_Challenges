@@ -1,2 +1,3 @@
 ## Day 3: - PROGRAM A TEXT ANALYZER WITH PYTHON ✅
-![Screenshot from 2024-04-18 00-22-01](https://github.com/Marouane-Elgoumiri/Python_Challenges/assets/96888594/5ebdfe1c-8744-43db-b6cf-6de4b6288249)
+
+![2024-04-17_23-39-15_V2](https://github.com/Marouane-Elgoumiri/Python_Challenges/assets/96888594/2ef91801-92c5-45ce-b021-5433185d8cac)
