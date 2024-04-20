@@ -11,7 +11,7 @@
   <img src="https://giphy.com/embed/UIN7Andwh7kDZGUvmt" width="100%" height="100%" style="position:absolute" frameborder="0" allowFullScreen></img>
 </p>
 
-<iframe src="https://giphy.com/embed/UIN7Andwh7kDZGUvmt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/getmanfred-python-manfred-programming-UIN7Andwh7kDZGUvmt">via GIPHY</a></p>
+
 
 **Current streak: 4/16 ⚡**
 
