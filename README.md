@@ -5,8 +5,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
-<i class="fa-brands fa-python fa-bounce" style="color: #FFD43B;"></i>
-<p>Current streak: 4/16 ⚡ </p>
+
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+**Current streak: 4/16 ⚡**
+
+
 
 ### Day 1: - PROGRAM A NAME CREATOR WITH PYTHON ✅
 
