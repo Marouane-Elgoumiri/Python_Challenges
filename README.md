@@ -8,7 +8,10 @@
 
 <!-- Center GIF using Markdown -->
 <p align="center">
-  <img src="https://giphy.com/embed/UIN7Andwh7kDZGUvmt" width="100%" height="100%" style="position:absolute" frameborder="0" allowFullScreen></img>
+  
+  ![image](https://github.com/Marouane-Elgoumiri/Python_Challenges/assets/96888594/55a8b029-81f5-4dba-8042-97c080669231)
+
+ 
 </p>
 
 
