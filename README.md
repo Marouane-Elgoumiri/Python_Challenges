@@ -8,8 +8,8 @@
 
 <!-- Center GIF using Markdown -->
 <p align="center">
-  
-  ![image](https://github.com/Marouane-Elgoumiri/Python_Challenges/assets/96888594/55a8b029-81f5-4dba-8042-97c080669231)
+
+[![GIF](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)](https://giphy.com/gifs/coxQHKASG60HrHtvkt)
 
  
 </p>
